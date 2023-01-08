@@ -1,4 +1,4 @@
-package dev.abd3lraouf.learn.googleauth
+package dev.abd3lraouf.learn.googleauth.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
